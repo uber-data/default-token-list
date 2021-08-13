@@ -1,0 +1,17 @@
+[{
+        "chainId": 666,
+        "address": "0xE0cB3AcA12AcCA0142c0195aFa8064b88f03B98f",
+        "name": "Wrapped DTT",
+        "symbol": "WDTT",
+        "decimals": 18,
+        "logoURI": "https://dtc-swap.oss-ap-southeast-1.aliyuncs.com/asset_dtt.svg"
+    },
+    {
+        "chainId": 666,
+        "address": "0x0f3D9d6457d405b8A1418475CD96A3298D4A7B00",
+        "name": "Five Elements Coin",
+        "symbol": "FEC",
+        "decimals": 18,
+        "logoURI": "https://dtc-swap.oss-ap-southeast-1.aliyuncs.com/asset_fec.svg"
+    }
+]
